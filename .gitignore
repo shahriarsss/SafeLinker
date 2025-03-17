@@ -21,3 +21,5 @@ __pycache__/
 *.log
 *.bak
 *.tmp
+
+SafeLinkerExtension/
