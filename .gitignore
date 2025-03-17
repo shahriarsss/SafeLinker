@@ -22,4 +22,4 @@ __pycache__/
 *.bak
 *.tmp
 
-SafeLinkerExtension/
+/SafeLinkerExtension/
