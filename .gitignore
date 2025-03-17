@@ -1,0 +1,23 @@
+# Python virtual environment
+.venv/
+
+# PyCharm project files
+.idea/
+
+# Build and distribution directories
+build/
+dist/
+
+# Python compiled files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Packaging files
+*.spec
+
+# Other common ignores
+*.log
+*.bak
+*.tmp
